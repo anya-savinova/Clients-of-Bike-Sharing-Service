@@ -1,3 +1,5 @@
+PDF version of the report is here: https://github.com/anya-savinova/Clients-of-Bike-Sharing-Service/blob/main/Bike-Sharing-Service-s-Clients.pdf 
+
 ## Business task
 Since maximizing the number of annual memberships will ensure Cyclistic's future success, the Chicago-based bike-sharing service's new marketing strategy aims at converting casual riders into annual members. To develop a strategy, there is a need to understand the differences between these types of clients.  
 

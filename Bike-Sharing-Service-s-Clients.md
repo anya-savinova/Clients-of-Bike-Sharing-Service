@@ -51,7 +51,7 @@ riders, since the number of trips they make on weekdays is **1.7 times**
 greater than that of casual riders, and the difference on weekends is
 not decisive.*
 
-*3. Based on the above graphs, the use nature of bicycle-sharing service
+*3. The use nature of bicycle-sharing service
 by two categories of clients can be characterized as follow:*
 
 - Maintaining the average duration of trips throughout the week with a
